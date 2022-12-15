@@ -1,4 +1,9 @@
-#Shop Management System with Inventory Management System
+
+
+# Shop Management System
+> A Shopping System with Inventory and Staff Management
+
+
 
 This is a C++ program that simulates a basic point-of-sale (POS) system for a single shop. It has two main modes: a customer mode and an admin mode.
 
@@ -8,3 +13,4 @@ In the admin mode, users with the correct password can add new items to the shop
 
 The program uses arrays to store the shop's inventory, customer information, and purchased items. It also uses various control flow statements, such as if and while, to allow the user to navigate the program and perform different actions based on their input.
 
+<img src="https://6a6feeae-6e2b-49df-9ed4-2480d42a5083.id.repl.co/images/p1.png" align="right" />
